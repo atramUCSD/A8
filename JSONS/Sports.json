@@ -1,0 +1,21 @@
+{
+	"novels": [
+
+
+		{
+			"title": "Haikyuu",
+			"description": "ONE MORE!.",
+			"tag": "Sports",
+			"imageURL": "https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+			"driveLink": "https://a7-alan-angel.herokuapp.com/Sports/Haikyuu"
+		},
+
+		{
+			"title": "The King's Avatar",
+			"description": "When an elite gamer is forced out of his professional team, he becomes the manager of an internet café and reinvents himself to return to online glory.",
+			"tag": "Sports",
+			"imageURL": "https://cdn.novelupdates.com/images/2017/04/thekingsavatar.jpg",
+			"driveLink": "https://a7-alan-angel.herokuapp.com/Sports/KingsAvatar"
+		}
+	]
+}

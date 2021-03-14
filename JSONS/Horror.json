@@ -1,0 +1,21 @@
+{
+	"novels": [
+
+		{
+			"title": "FNAF: The Silver Eyes",
+			"description": "have you seen the new fnaf trailer.",
+			"tag": "Horror",
+			"imageURL": "https://images-na.ssl-images-amazon.com/images/I/71MTJikiWaL.jpg",
+			"driveLink": "https://a7-alan-angel.herokuapp.com/Horror/FNAF1"			
+		},
+
+		{
+			"title": "FNAF: The Twisted Ones",
+			"description": "have you seen the new fnaf trailer.",
+			"tag": "Horror",
+			"imageURL": "https://images-na.ssl-images-amazon.com/images/I/91PMtgJX8eL.jpg",
+			"driveLink": "https://a7-alan-angel.herokuapp.com/Horror/FNAF2"
+		}
+
+	]
+}
